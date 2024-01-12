@@ -1,10 +1,34 @@
 html.dark {
-  color-scheme: dark;
+  /* color-scheme: dark; */
+  --bg-gradient: 20, 20, 20, 0.7;
+  --bg-gradient-home: 20, 20, 20;
+  --box-shadow: 0 1px 8px 0 rgba(0, 0, 0, 0.6);
+  --nav-bgc: rgba(0, 0, 0, 0.8);
+  --box-shadow-hover: 0 2px 16px 0 rgba(0, 0, 0, 0.7);
+  --badge-font-color: #bdc3cc;
+  --description-font-color: #9facba;
 }
 
-.dark .VPContent {
+/* .dark .VPContent {
   background-color: rgb(10, 10, 11);
   background-image: url("/grid.svg");
+} */
+
+.VPContent::before {
+  content: "";
+  inset: 0;
+  position: fixed;
+  top: 0;
+  z-index: -1;
+  background-image: url(./bg.png);
+  background-repeat: repeat;
+  min-height: 100%;
+  opacity: 0.1;
+}
+
+.VPContent {
+  min-height: calc(100vh - var(--vp-nav-height));
+  background: radial-gradient(ellipse, rgba(var(--bg-gradient-home), 1) 0%, rgba(var(--bg-gradient-home), 0) 700%);
 }
 
 .vp-doc h2 {
