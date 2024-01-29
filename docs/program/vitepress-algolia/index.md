@@ -9,7 +9,7 @@ date: 2022-12-18
 
 ## 背景
 
-最近在折腾 VitePress，搭建了一个文档项目：[ChoDocs](https://chodocs.cn/)，不过文档还不支持搜索功能，虽然目前内容不多，但待我同步完之后，搜索就很有必要了。
+最近在折腾 VitePress，搭建了一个文档项目：[ChoDocs](https://mobius.cool/)，不过文档还不支持搜索功能，虽然目前内容不多，但待我同步完之后，搜索就很有必要了。
 
 之前看 VitePress 官网发现没有相关介绍文档，不过好在自己对于 algolia 比较熟悉了，于是自己在项目中集成了。
 
@@ -73,7 +73,7 @@ date: 2022-12-18
 ```json
 {
   "index_name": "chodocs", // 填写自己的索引名称
-  "start_urls": ["https://chodocs.cn/"], // 填写自己的网站地址
+  "start_urls": ["https://mobius.cool/"], // 填写自己的网站地址
   "rateLimit": 8,
   "maxDepth": 10,
   "selectors": {

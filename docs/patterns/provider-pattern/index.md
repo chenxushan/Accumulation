@@ -23,7 +23,7 @@ import './style.css'
 export default function App() {
   const data = {
     listItem: 'ChoDocs',
-    title: 'https://chodocs.cn/',
+    title: 'https://mobius.cool/',
     text: 'Hello Chocolate',
   }
 
@@ -90,7 +90,7 @@ export const DataContext = createContext({})
 export default function App() {
   const data = {
     listItem: 'ChoDocs',
-    title: 'https://chodocs.cn/',
+    title: 'https://mobius.cool/',
     text: 'Hello Chocolate',
   }
 

@@ -22,9 +22,9 @@ React 这个框架出来之前其实也是有竞争对手的，也就好像现�
 
 而在杭州某大厂就流行开源项目这一说法，那么好的资源，却为了 kpi 而 kpi，所以导致多数人很讨厌 kpi 项目，这些项目为他们升了职，马上开始下一个，到最后就没什么人维护了。
 
-当然，只是存在这种现象，我们也应该看到好的一方面。那么 React 其实就是卷出来的，其中有个很有意思的点，也就是前不久刚在 [ChoDocs](https://chodocs.cn/) 上写的一篇设计模式，内容也是和 React 相关，地址在这：
+当然，只是存在这种现象，我们也应该看到好的一方面。那么 React 其实就是卷出来的，其中有个很有意思的点，也就是前不久刚在 [ChoDocs](https://mobius.cool/) 上写的一篇设计模式，内容也是和 React 相关，地址在这：
 
-[容器/演示模式](https://chodocs.cn/patterns/container-presentational-pattern/)
+[容器/演示模式](https://mobius.cool/patterns/container-presentational-pattern/)
 
 内容中提到了 React 中的关注点分离是怎样做的，而在纪录片中讲述了当时那个年代并没有组件化这个概念，平常大家所说的关注点分离就是指 HTML、CSS、JS 三权分立，虽然看起来文件整理归纳的不错，但仔细想想，我们是不是应该根据功能、组件来划分，对吧。
 

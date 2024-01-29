@@ -10,7 +10,7 @@ const interview: navItem[] = [
   {
     id: 2,
     text: 'ChoDocs-面试',
-    link: 'https://chodocs.cn/interview/',
+    link: 'https://mobius.cool/interview/',
     desc: 'One-stop front-end content website',
   },
 ]

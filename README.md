@@ -1,5 +1,5 @@
 <p align="center">
-<img  alt="chodocs" src="https://chodocs.cn/chodocs-logo.svg"/>
+<img  alt="chodocs" src="https://mobius.cool/chodocs-logo.svg"/>
 </p>
 
 <h1 align="center">
@@ -24,7 +24,7 @@ Front-end learning document collection
 
 如果你觉得内容不错，可以通过 RSS 订阅更新，订阅地址：
 
-[https://chodocs.cn/feed.xml](https://chodocs.cn/feed.xml)
+[https://mobius.cool/feed.xml](https://mobius.cool/feed.xml)
 
 或者你也可以在我的 GitHub 主页这里来查看最新的 6 条内容更新：
 
@@ -36,7 +36,7 @@ Front-end learning document collection
 - 💬 编程学习: 同步 B 站视频，文档用于巩固知识。
 - 📓 前端算法: 不再畏惧面试算法，提供刷题路线。
 - 🚚 备忘录: 将日常工作中遇到的问题做一份备忘录，方便查阅。
-- 💭 学习圈子: 打造专业的前端技术氛围社群，低调务实。
+- 💭 影音艺: 打造专业的前端技术氛围社群，低调务实。
 - 🔧 编程工具: 归纳一些编程相关工具与网站，提高效率。
 - 🌱 青葱岁月: 程序人生时光机，记录所有美好的时光。
 - 🎉 技术视野: 跟随前沿技术，深度和广度学习。
@@ -52,7 +52,7 @@ Front-end learning document collection
 - 🦾 使用 TypeScript，保证类型安全
 - 📦 编写自定义插件与组件，内容丰富多样
 - 🌈 公开贡献者头像，共建优质内容
-- 🌏 建立优秀学习氛围的学习圈子
+- 🌏 建立优秀学习氛围的影音艺
 - 📡 生成 Feed，内容可订阅更新
 - 📘 注重内容排版，提供好的阅读体验
 - 🏆 打造一站式高质量的专业前端内容
@@ -61,7 +61,7 @@ Front-end learning document collection
 
 ## 🔥 内容大全
 
-> 以下仅列举部分精华内容，更多内容请在 [ChoDocs 主站](https://chodocs.cn/)阅读，主站内还有对应 [bilibili](https://space.bilibili.com/351534170) 视频地址。
+> 以下仅列举部分精华内容，更多内容请在 [ChoDocs 主站](https://mobius.cool/)阅读，主站内还有对应 [bilibili](https://space.bilibili.com/351534170) 视频地址。
 
 ### 前端基础
 
@@ -94,31 +94,31 @@ Front-end learning document collection
 
 ### 前端设计模式
 
-- [单例模式](https://chodocs.cn/patterns/singleton-pattern/)
-- [代理模式](https://chodocs.cn/patterns/proxy-pattern/)
-- [提供者模式](https://chodocs.cn/patterns/provider-pattern/)
-- [原型模式](https://chodocs.cn/patterns/prototype-pattern/)
-- [容器/演示模式](https://chodocs.cn/patterns/container-presentational-pattern/)
-- [观察者模式](https://chodocs.cn/patterns/observer-pattern/)
-- [模块模式](https://chodocs.cn/patterns/module-pattern/)
-- [混合模式](https://chodocs.cn/patterns/mixin-pattern/)
-- [中介/中间件模式](https://chodocs.cn/patterns/middleware-pattern/)
-- [高阶组件模式](https://chodocs.cn/patterns/hoc-pattern/)
+- [单例模式](https://mobius.cool/patterns/singleton-pattern/)
+- [代理模式](https://mobius.cool/patterns/proxy-pattern/)
+- [提供者模式](https://mobius.cool/patterns/provider-pattern/)
+- [原型模式](https://mobius.cool/patterns/prototype-pattern/)
+- [容器/演示模式](https://mobius.cool/patterns/container-presentational-pattern/)
+- [观察者模式](https://mobius.cool/patterns/observer-pattern/)
+- [模块模式](https://mobius.cool/patterns/module-pattern/)
+- [混合模式](https://mobius.cool/patterns/mixin-pattern/)
+- [中介/中间件模式](https://mobius.cool/patterns/middleware-pattern/)
+- [高阶组件模式](https://mobius.cool/patterns/hoc-pattern/)
 - ...
 
 ### 专题
 
-- [模拟面试](https://chodocs.cn/interview/interviewer/)
-- [前端算法路线](https://chodocs.cn/algorithm/guide/)
-- [前端设计模式大全](https://chodocs.cn/patterns/guide/)
-- [TypeScript 学习](https://chodocs.cn/ts/ch.html)
-- [春招实习大整理](https://chodocs.cn/interview/spring-internship/summary/)
-- [isolcat 三月面试合集](https://chodocs.cn/interview/isolcat/)
+- [模拟面试](https://mobius.cool/interview/interviewer/)
+- [前端算法路线](https://mobius.cool/algorithm/guide/)
+- [前端设计模式大全](https://mobius.cool/patterns/guide/)
+- [TypeScript 学习](https://mobius.cool/ts/ch.html)
+- [春招实习大整理](https://mobius.cool/interview/spring-internship/summary/)
+- [isolcat 三月面试合集](https://mobius.cool/interview/isolcat/)
 
 ### 编程实用
 
-- [常用一些 Git 命令](https://chodocs.cn/memo/git-command/)
-- [前端资源导航](https://chodocs.cn/favorites.html)
+- [常用一些 Git 命令](https://mobius.cool/memo/git-command/)
+- [前端资源导航](https://mobius.cool/favorites.html)
 
 ## ⭐ Star History
 
@@ -126,7 +126,7 @@ Front-end learning document collection
 
 ## 🧱 Contribute
 
-See the [**Contributing Guide**](https://chodocs.cn/contributing.html).
+See the [**Contributing Guide**](https://mobius.cool/contributing.html).
 
 ## 🧑‍💻 Contributors
 

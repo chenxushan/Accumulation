@@ -5,7 +5,7 @@ date: 2023-04-18
 
 # ChoDocs 的 VitePress 插件折腾记录
 
-如果你也想拥有和 [chodocs.cn](https://chodocs.cn/) 一样的 vitepress 文档效果，不妨从这篇文章看起。
+如果你也想拥有和 [chodocs.cn](https://mobius.cool/) 一样的 vitepress 文档效果，不妨从这篇文章看起。
 
 > 事先声明：在自己配置之前查看一下是否版本和我目前是一致的，一般而言版本号相差个位数影响不大，如果相差较大建议升级一下 vitepress 版本并结合官方文档修改。
 
@@ -376,7 +376,7 @@ export const pwa: Partial<VitePWAOptions> = {
 
 ## 文档支持 rss 订阅
 
-这个是前不久做好的功能，核心是使用的 `feed` 库生成的，具体效果可见 `https://chodocs.cn/feed.xml`。
+这个是前不久做好的功能，核心是使用的 `feed` 库生成的，具体效果可见 `https://mobius.cool/feed.xml`。
 
 核心代码可见这里:
 
@@ -408,7 +408,7 @@ export async function genFeed(config: SiteConfig) {
     id: baseUrl,
     link: baseUrl,
     language: 'zh-CN',
-    image: 'https://chodocs.cn/chodocs-logo.svg',
+    image: 'https://mobius.cool/chodocs-logo.svg',
     favicon: `${baseUrl}/favicon.ico`,
     copyright: 'Copyright (c) 2022-present, Chocolate and ChoDocs contributors',
   })

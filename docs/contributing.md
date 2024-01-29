@@ -71,4 +71,4 @@ pnpm run lint:fix
 
 ## 感谢参与
 
-非常感谢你对于 [ChoDocs](https://github.com/chodocs/chodocs) 的参与贡献，我们会在首页 [chodocs.cn](https://chodocs.cn/) 展示各位贡献者的头像！
+非常感谢你对于 [ChoDocs](https://github.com/chodocs/chodocs) 的参与贡献，我们会在首页 [chodocs.cn](https://mobius.cool/) 展示各位贡献者的头像！

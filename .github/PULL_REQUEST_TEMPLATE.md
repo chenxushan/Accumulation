@@ -15,5 +15,5 @@
 
 ### 还需确认一下
 
-- [ ] 已阅读「[参与贡献指南](https://chodocs.cn/contributing.html)」
+- [ ] 已阅读「[参与贡献指南](https://mobius.cool/contributing.html)」
 - [ ] 代码提交没有冲突并且已经通过格式化校验规则

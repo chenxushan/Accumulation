@@ -39,17 +39,17 @@ export default withPwa(defineConfig({
     },
     lastUpdatedText: '最后一次更新于',
     footer: {
-      message: `用心去做高质量的专业前端内容网站，欢迎 <a target="_blank" style="color: var(--vp-c-brand)" href="${github}">star ⭐</a> 让更多人发现`,
+      message: `知识就是力量，欢迎 <a target="_blank" style="color: var(--vp-c-brand)" href="${github}">star ⭐</a> 让更多人发现`,
       copyright: `<a target="_blank" href="${github}/blob/main/LICENSE">MIT License</a> | 版权所有 © 2022-${new Date().getFullYear()} <a target="_blank" href="${github}">Chocolate and ChoDocs contributors</a>`,
     },
     nav: [
-      { text: '💭 学习圈子', link: '/zsxq' },
+      { text: '💭 影音艺', link: '/zsxq' },
       {
         text: '🔥 专栏',
         items: [
           { text: '🔥 前端算法', link: '/algorithm/guide/' },
           { text: '🔥 设计模式', link: '/patterns/guide/' },
-          { text: '📋 面试大全', link: '/interview/' },
+          { text: '📋 老照片', link: '/interview/' },
         ],
       },
       {
@@ -108,7 +108,7 @@ export default withPwa(defineConfig({
     ['script', { 'async': '', 'defer': '', 'data-website-id': `${process.env.UMAMI_WEBSITE_ID || ''}`, 'src': `${process.env.UMAMI_ENDPOINT || ''}` }],
   ],
   async buildEnd(siteConfig) {
-    await sitemap({ hostname: 'https://chodocs.cn/' })
+    await sitemap({ hostname: 'https://mobius.cool/' })
     await genFeed(siteConfig)
   },
 }))

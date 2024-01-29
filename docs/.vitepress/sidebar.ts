@@ -3,11 +3,11 @@ import autoSidebar from './theme/plugins/autoSidebarBeta'
 export default {
   '/': [
     {
-      text: '开始阅读',
+      text: '公众号',
       collapsed: false,
       items: [
         { text: '阅读须知', link: '/guide' },
-        { text: '学习圈子', link: '/zsxq' },
+        { text: '影音艺', link: '/zsxq' },
         {
           text: '23 年每周学习动态',
           items: [
@@ -276,7 +276,7 @@ function sidebarInterview() {
       text: '前端基础：js/html/css/ts',
       collapsed: false,
       items: [
-        { text: 'JS 面试大全', link: '/interview/js/' },
+        { text: 'JS 老照片', link: '/interview/js/' },
         { text: 'JS 自测清单（一）', link: '/interview/js/test/1.md' },
         { text: 'JS 自测清单（二）', link: '/interview/js/test/2.md' },
         { text: 'JS 自测清单（三）', link: '/interview/js/test/3.md' },

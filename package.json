@@ -4,7 +4,7 @@
   "version": "0.2.3",
   "private": true,
   "packageManager": "pnpm@8.11.0",
-  "description": "一站式前端内容网站，包括学习路线、知识体系（用专栏形式更新）。",
+  "description": "我喜欢拿了橘子跑啊，因为knowledge is power！",
   "author": "Choi Yang<https://github.com/Chocolate1999>",
   "license": "MIT",
   "repository": {

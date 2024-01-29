@@ -15,7 +15,7 @@ contributors: ["Choi Yang"]
 
 首先是面向的人群，我们会把名额优先给到正在准备春招面试的同学。
 
-条件是需要是我们（[HearLing](https://space.bilibili.com/201738571?spm_id_from=333.337.0.0) 或者 [一百个 Chocolate](https://space.bilibili.com/351534170?spm_id_from=333.337.0.0)）的 B 站粉丝，或者[小狮子前端星球](https://chodocs.cn/zsxq.html)成员，如果报名人数多的话，会优先星球成员。
+条件是需要是我们（[HearLing](https://space.bilibili.com/201738571?spm_id_from=333.337.0.0) 或者 [一百个 Chocolate](https://space.bilibili.com/351534170?spm_id_from=333.337.0.0)）的 B 站粉丝，或者[小狮子前端星球](https://mobius.cool/zsxq.html)成员，如果报名人数多的话，会优先星球成员。
 
 其次是需要配合录制视频，视频会公开在 B 站，不会出现隐私信息（简历会要求除去隐私信息）。
 
@@ -47,7 +47,7 @@ contributors: ["Choi Yang"]
 
 1. 【小狮子前端】公众号，在底部菜单栏可以添加微信。
 
-2. [【小狮子前端】知识星球](https://chodocs.cn/zsxq.html)，模拟面试置顶帖，可以添加微信。
+2. [【小狮子前端】知识星球](https://mobius.cool/zsxq.html)，模拟面试置顶帖，可以添加微信。
 
 3. 【HearLing 的前端交流群】微信群，找到一百个 Chocolate，添加微信。
 
@@ -63,7 +63,7 @@ contributors: ["Choi Yang"]
 
 **3.加入星球**
 
-对于想加入星球的伙伴，详细信息可见：[ChoDocs 学习圈子](/zsxq)
+对于想加入星球的伙伴，详细信息可见：[ChoDocs 影音艺](/zsxq)
 
 加入星球可享受以下福利：
 

@@ -18,7 +18,7 @@ export default defineConfig(async () => {
       },
       fs: {
         allow: [
-          resolve(__dirname, '..'),
+          resolve(__dirname, './'),
         ],
       },
     },

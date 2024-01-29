@@ -21,7 +21,7 @@ export async function genFeed(config: SiteConfig) {
     id: baseUrl,
     link: baseUrl,
     language: 'zh-CN',
-    image: 'https://chodocs.cn/chodocs-logo.svg',
+    image: 'https://mobius.cool/chodocs-logo.svg',
     favicon: `${baseUrl}/favicon.ico`,
     copyright:
       'Copyright (c) 2022-present, Chocolate and ChoDocs contributors',

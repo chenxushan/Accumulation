@@ -1,40 +1,40 @@
 ---
 layout: home
 
-title: ChoDocs
-titleTemplate: 一站式前端内容网站，包括学习路线、知识体系
+title: Mobius
+titleTemplate: 莫比乌斯
 
 hero:
-  name: ChoDocs
-  text: "Front-end learning document collection"
+  name: Mobius
+  text: "Knowledge is power"
   tagline: |
-    一站式前端内容网站，包括学习路线、知识体系
+    我喜欢拿了橘子跑啊，因为knowledge is power！
   image:
-    src: /it.svg
-    alt: ChoDocs
+    src: /logonew.png
+    alt: Mobius
   actions:
     - theme: brand
-      text: 开始阅读
+      text: 公众号
       link: /guide
     - theme: alt
-      text: 学习圈子
+      text: 影音艺
       link: /zsxq
     - theme: alt
-      text: 面试大全
+      text: 老照片
       link: /interview/
 features:
   - icon: 📋
-    title: 面试专栏
+    title: 公众号
     details: 海量前端面试问题解答，一站式阅读体验。
     link: /interview/
     linkText: 开始刷题
   - icon: 💬
-    title: 编程学习
+    title: AIGC
     details: 同步 B 站视频，文档用于巩固知识。
     link: /program/npm-package/
     linkText: 编程学习
   - icon: 📓
-    title: 前端算法
+    title: 阅读
     details: 不再畏惧面试算法，提供刷题路线。
     link: /algorithm/guide/
     linkText: 开始刷题
@@ -44,27 +44,27 @@ features:
     link: /memo/git-command/
     linkText: 开始查阅
   - icon: 💭
-    title: 学习圈子
+    title: 影音艺
     details: 打造专业的前端技术氛围社群，低调务实。
     link: /zsxq
     linkText: 加入圈子
   - icon: 🔧
-    title: 编程工具
+    title: 好物
     details: 归纳一些编程相关工具与网站，提高效率。
     link: /tool/
     linkText: 提高效率
   - icon: 🌱
-    title: 青葱岁月
+    title: 心流
     details: 程序人生时光机，记录所有美好的时光。
     link: /green/ch
     linkText: 记录当下
   - icon: 🎉
-    title: 技术视野
+    title: 全球视野
     details: 跟随前沿技术，深度和广度学习。
     link: https://github.com/Chocolate1999
     linkText: 欢迎 Follow
   - icon: 🚩
-    title: 拥抱开源
+    title: 经史子集
     details: 文档开源，版权 ChoDocs 所有，禁商业行为。
     link: https://github.com/chodocs/chodocs
     linkText: 欢迎 ⭐
