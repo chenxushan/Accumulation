@@ -1,7 +1,7 @@
 {
   "name": "chodocs",
   "type": "module",
-  "version": "0.2.3",
+  "version": "0.0.1",
   "private": true,
   "packageManager": "pnpm@8.11.0",
   "description": "我喜欢拿了橘子跑啊，因为knowledge is power！",
@@ -9,22 +9,22 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chodocs/chodocs"
+    "url": "git+https://github.com/chenxushan/Accumulation"
   },
   "bugs": {
-    "url": "https://github.com/chodocs/chodocs/issues"
+    "url": "https://github.com/chenxushan/Accumulation/issues"
   },
   "keywords": [
-    "react 专栏",
-    "vue 专栏",
-    "TypeScript 系列",
-    "Next.js 实战",
-    "Chocolate",
-    "前端基础",
-    "前端学习路线",
-    "前端思维导图",
-    "知识星球",
-    "小狮子前端"
+    "公众号",
+    "AIGC",
+    "阅读",
+    "备忘录",
+    "影音艺",
+    "好物",
+    "心流",
+    "全球视野",
+    "经史子集",
+    "老照片"
   ],
   "scripts": {
     "dev": "vitepress dev docs --port 8085 --max-old-space-size=50000",
