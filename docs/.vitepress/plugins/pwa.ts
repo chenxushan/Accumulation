@@ -48,6 +48,7 @@ export const pwa: Partial<VitePWAOptions> = {
     navigateFallbackDenylist: [/^\/new$/],
     globPatterns: ['**/*.{js,css,webp,png,svg,gif,ico,woff2}'],
     navigateFallback: null,
+    maximumFileSizeToCacheInBytes: 4 * 1024 * 1024,
     runtimeCaching: [
       {
         urlPattern: googleFontRegex,
