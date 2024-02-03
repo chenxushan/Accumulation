@@ -15,7 +15,7 @@ hero:
   actions:
     - theme: brand
       text: 公众号
-      link: /guide
+      link: /socialmedia/
     - theme: alt
       text: 影音艺
       link: /zsxq
@@ -26,7 +26,7 @@ features:
   - icon: 🎥
     title: 公众号
     details: 弘扬真善美，反对假恶丑。
-    link: /interview/
+    link: /socialmedia/
     linkText: follow inner voice
   - icon: ♾️
     title: AIGC
@@ -56,17 +56,17 @@ features:
   - icon: 🤔
     title: 心流
     details: 思考，积淀，记录美好时光。
-    link: /green/ch
+    link: /flow/
     linkText: 心路历程
   - icon: 🧬
     title: 全球视野
     details: 跟随前沿技术，探索、认识、发现世界。
-    link: https://github.com/Chocolate1999
+    link: https://github.com/chenxushan
     linkText: 欢迎一起
   - icon: 📜
     title: 经史子集
     details: 每个人都能自由地看到我们的历史、文明。
-    link: https://github.com/chodocs/chodocs
+    link: https://github.com/chenxushan
     linkText: 传统文化
 ---
 

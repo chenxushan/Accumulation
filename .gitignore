@@ -1,7 +1,8 @@
 node_modules
 .temp
 docs/.vitepress/cache
-dist
+# dist is pnpm build product to deploy nginx
+#dist
 .vscode
 cache
 .eslintcache

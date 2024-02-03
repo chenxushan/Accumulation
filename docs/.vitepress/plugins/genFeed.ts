@@ -21,10 +21,10 @@ export async function genFeed(config: SiteConfig) {
     id: baseUrl,
     link: baseUrl,
     language: 'zh-CN',
-    image: 'https://mobius.cool/chodocs-logo.svg',
+    image: 'https://mobius.cool/mobius.svg',
     favicon: `${baseUrl}/favicon.ico`,
     copyright:
-      'Copyright (c) 2022-present, Chocolate and ChoDocs contributors',
+      'Copyright (c) 2022-present, Mobius contributors',
   })
 
   const posts = await createContentLoader('**/*.md', {

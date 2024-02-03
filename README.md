@@ -1,5 +1,5 @@
 <p align="center">
-<img  alt="chodocs" src="https://mobius.cool/chodocs-logo.svg"/>
+<img  alt="chodocs" src="https://mobius.cool/mobius.svg"/>
 </p>
 
 <h1 align="center">

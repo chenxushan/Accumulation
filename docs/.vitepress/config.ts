@@ -23,7 +23,7 @@ export default withPwa(defineConfig({
     root: { label: '简体中文', lang: 'zh-CN' },
   },
   themeConfig: {
-    logo: './chodocs-logo.svg',
+    logo: './mobius.svg',
     outline: 'deep',
     docFooter: {
       prev: '上一篇',
@@ -40,32 +40,26 @@ export default withPwa(defineConfig({
     lastUpdatedText: '最后一次更新于',
     footer: {
       message: `知识就是力量，欢迎 <a target="_blank" style="color: var(--vp-c-brand)" href="${github}">star ⭐</a> 让更多人发现`,
-      copyright: `<a target="_blank" href="${github}/blob/main/LICENSE">MIT License</a> | 版权所有 © 2022-${new Date().getFullYear()} <a target="_blank" href="${github}">Chocolate and ChoDocs contributors</a>`,
+      copyright: `<a target="_blank" href="${github}/blob/main/LICENSE">MIT License</a> | 版权所有 © 2022-${new Date().getFullYear()} <a target="_blank" href="${github}">Mobius contributors</a>`,
     },
     nav: [
-      { text: '💭 影音艺', link: '/zsxq' },
+      { text: '🎞️ 影音艺', link: '/audiovisualarts/' },
       {
-        text: '🔥 专栏',
+        text: '🎥 公众号',
         items: [
-          { text: '🔥 前端算法', link: '/algorithm/guide/' },
-          { text: '🔥 设计模式', link: '/patterns/guide/' },
-          { text: '📋 老照片', link: '/interview/' },
+          { text: '微信公众号', link: '/socialmedia/wechat/' },
+          { text: '小红书', link: '/socialmedia/xhs/' },
+          { text: '知识星球', link: '/socialmedia/zsxq/' },
         ],
       },
       {
-        text: '编程',
-        items: [
-          { text: '⭐ 资源导航', link: '/favorites' },
-          { text: '💻 编程学习', link: '/program/' },
-          { text: '🔧 编程工具', link: '/tool/' },
-        ],
+        text: '老照片',
+        link: '/audiovisualarts/',
+
       },
       {
-        text: '洞见',
-        items: [
-          { text: '✏️ 随笔', link: '/essay/' },
-          { text: '🌱 青葱岁月', link: '/green/ch' },
-        ],
+        text: '心流',
+        link: '/flow/',
       },
       {
         text: `v${docsVersion}`,
@@ -90,7 +84,7 @@ export default withPwa(defineConfig({
 
     ['link', { rel: 'shortcut icon', href: '/favicon.ico' }],
     ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
-    ['link', { rel: 'mask-icon', href: '/chodocs-logo.svg', color: '#06f' }],
+    ['link', { rel: 'mask-icon', href: '/mobius.svg', color: '#06f' }],
     ['meta', { name: 'theme-color', content: '#06f' }],
 
     ['link', { rel: 'apple-touch-icon', sizes: '120x120', href: '/images/icons/apple-touch-icon.png' }],

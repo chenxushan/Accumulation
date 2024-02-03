@@ -51,7 +51,7 @@ function getGithubLink(name: string) {
             target="_blank"
           >CC BY-NC-SA 4.0</a>
           许可协议。转载请注明来自
-          <a href="https://mobius.cool/" rel="noreferrer" target="_blank">ChoDocs</a></span>！
+          <a href="https://mobius.cool/" rel="noreferrer" target="_blank">Mobius</a></span>！
       </div>
     </section>
   </div>
