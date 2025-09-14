@@ -4,7 +4,7 @@
         <title>Mobius</title>
         <link>https://mobius.cool/</link>
         <description>我喜欢拿了橘子跑啊，因为knowledge is power！</description>
-        <lastBuildDate>Sun, 14 Sep 2025 13:40:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Sep 2025 15:15:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
@@ -144,8 +144,14 @@
             <guid>https://mobius.cool/aigc/</guid>
             <pubDate>Thu, 01 Jul 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[<p>aigc</p>
+<ul>
+<li><a href="/aigc/it/coding.html">刷题</a></li>
+</ul>
 ]]></description>
             <content:encoded><![CDATA[<p>aigc</p>
+<ul>
+<li><a href="/aigc/it/coding.html">刷题</a></li>
+</ul>
 ]]></content:encoded>
         </item>
         <item>
