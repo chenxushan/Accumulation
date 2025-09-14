@@ -31,12 +31,12 @@ features:
   - icon: ♾️
     title: AIGC
     details: 拥抱AI。
-    link: /program/npm-package/
+    link: /aigc/
     linkText: 人工智能
   - icon: 📓
     title: 阅读
     details: 书中自有黄金屋，书中自有颜如玉。
-    link: /algorithm/guide/
+    link: /reading/
     linkText: 阅读是砍向我们内心冰封大海的斧头
   - icon: 🧠
     title: 备忘录
@@ -46,12 +46,12 @@ features:
   - icon: 🎞️
     title: 影音艺
     details: 电影和音乐是最“廉价”的艺术品，即使我们一无所有的时候，我们依然可以听自己喜欢的音乐， 看自己喜欢的电影......
-    link: /zsxq
+    link: /audiovisualarts/
     linkText: 一起分享吧
   - icon: 🧰
     title: 好物
     details: 分享好物是人间美德。
-    link: /tool/
+    link: /goodthings/
     linkText: 分享好物
   - icon: 🤔
     title: 心流
@@ -61,12 +61,12 @@ features:
   - icon: 🧬
     title: 全球视野
     details: 跟随前沿技术，探索、认识、发现世界。
-    link: https://github.com/chenxushan
+    link: /globalvision/
     linkText: 欢迎一起
   - icon: 📜
     title: 经史子集
     details: 每个人都能自由地看到我们的历史、文明。
-    link: https://github.com/chenxushan
+    link: /classichistory
     linkText: 传统文化
 ---
 
